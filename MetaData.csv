@@ -1,0 +1,160 @@
+﻿Set,Treatment,Wavelength (nm),Fluence [J/cm^2],Pulse Count,Spacing,Pulse Width (fs),Pulse Energy (uJ),Spot Radius (um),Set_title
+T,A,1030,0.02,10000,NA,170,29.2,300,pharos
+T,B,1030,0.025,10000,NA,170,35.3,300,pharos
+T,C,1030,0.03,10000,NA,170,42.5,300,pharos
+T,D,1030,0.035,10000,NA,170,49.5,300,pharos
+T,E,1030,0.04,10000,NA,170,56.6,300,pharos
+T,F,1030,0.045,10000,NA,170,63.7,300,pharos
+T,G,1030,0.05,10000,NA,170,70.8,300,pharos
+T,H,1030,0.02,100000,NA,170,29.2,300,pharos
+T,I,1030,0.025,100000,NA,170,35.3,300,pharos
+T,J,1030,0.03,100000,NA,170,42.5,300,pharos
+T,K,1030,0.035,100000,NA,170,49.5,300,pharos
+T,L,1030,0.04,100000,NA,170,56.6,300,pharos
+T,M,1030,0.045,100000,NA,170,63.7,300,pharos
+T,N,1030,0.05,100000,NA,170,70.8,300,pharos
+T,O,NA,NA,NA,NA,NA,NA,NA,pharos
+T,P,NA,NA,NA,NA,NA,NA,NA,pharos
+U,A,1030,0.075,100,NA,170,NA,300,Pharos extreme pulse counts
+U,B,1030,0.08,100,NA,170,NA,300,Pharos extreme pulse counts
+U,C,1030,0.085,100,NA,170,NA,300,Pharos extreme pulse counts
+U,D,1030,0.09,100,NA,170,NA,300,Pharos extreme pulse counts
+U,E,1030,0.04,500,NA,170,NA,300,Pharos extreme pulse counts
+U,F,1030,0.045,500,NA,170,NA,300,Pharos extreme pulse counts
+U,G,1030,0.05,500,NA,170,NA,300,Pharos extreme pulse counts
+U,H,1030,0.055,500,NA,170,NA,300,Pharos extreme pulse counts
+U,I,1030,0.06,500,NA,170,NA,300,Pharos extreme pulse counts
+U,J,1030,0.065,500,NA,170,NA,300,Pharos extreme pulse counts
+U,K,1030,0.07,500,NA,170,NA,300,Pharos extreme pulse counts
+U,L,1030,0.075,125,NA,170,NA,300,Pharos extreme pulse counts
+U,M,1030,0.08,500,NA,170,NA,300,Pharos extreme pulse counts
+U,N,1030,0.085,500,NA,170,NA,300,Pharos extreme pulse counts
+U,O,1030,0.09,500,NA,170,NA,300,Pharos extreme pulse counts
+U,P,1030,0.04,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,Q,1030,0.045,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,R,1030,0.05,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,S,1030,0.055,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,T,1030,0.06,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,U,1030,0.065,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,V,1030,0.075,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,W,1030,0.07,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,X,1030,0.08,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,Y,1030,0.085,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,Z,1030,0.09,1000,NA,170,NA,300,Pharos extreme pulse counts
+U,AA,1030,0.01,1000000,NA,170,NA,300,Pharos extreme pulse counts
+U,BB,1030,0.015,1000000,NA,170,NA,300,Pharos extreme pulse counts
+U,CC,1030,0.02,1000000,NA,170,NA,300,Pharos extreme pulse counts
+U,DD,1030,0.025,1000000,NA,170,NA,300,Pharos extreme pulse counts
+U,EE,NA,NA (inoculated CTRL),NA,NA,NA,NA,NA,Pharos extreme pulse counts
+U,FF,NA,N (uninoculated ctrl),NA,NA,NA,NA,NA,Pharos extreme pulse counts
+V,A,515,0.01,10000,NA,170,NA,300,Pharos green
+V,B,515,0.015,10000,NA,170,NA,300,Pharos green
+V,C,515,0.02,10000,NA,170,NA,300,Pharos green
+V,D,515,0.025,10000,NA,170,NA,300,Pharos green
+V,E,515,0.03,10000,NA,170,NA,300,Pharos green
+V,F,515,0.035,10000,NA,170,NA,300,Pharos green
+V,G,515,0.04,10000,NA,170,NA,300,Pharos green
+V,H,515,0.045,10000,NA,170,NA,300,Pharos green
+V,I,515,0.05,10000,NA,170,NA,300,Pharos green
+V,J,515,0.055,10000,NA,170,NA,300,Pharos green
+V,K,515,0.06,10000,NA,170,NA,300,Pharos green
+V,L,515,0.065,10000,NA,170,NA,300,Pharos green
+V,M,515,0.07,10000,NA,170,NA,300,Pharos green
+V,N,515,0.01,100000,NA,170,NA,300,Pharos green
+V,O,515,0.015,100000,NA,170,NA,300,Pharos green
+V,P,515,0.02,100000,NA,170,NA,300,Pharos green
+V,Q,515,0.025,100000,NA,170,NA,300,Pharos green
+V,R,515,0.03,100000,NA,170,NA,300,Pharos green
+V,S,515,0.035,100000,NA,170,NA,300,Pharos green
+V,T,515,0.04,100000,NA,170,NA,300,Pharos green
+V,U,515,0.045,100000,NA,170,NA,300,Pharos green
+V,V,515,0.05,100000,NA,170,NA,300,Pharos green
+V,W,515,0.055,100000,NA,170,NA,300,Pharos green
+V,X,515,0.06,100000,NA,170,NA,300,Pharos green
+V,Y,515,0.065,100000,NA,170,NA,300,Pharos green
+V,Z,515,0.07,100000,NA,170,NA,300,Pharos green
+V,AA,515,0.04,1000,NA,170,NA,300,Pharos green
+V,BB,515,0.045,1000,NA,170,NA,300,Pharos green
+V,CC,515,0.05,1000,NA,170,NA,300,Pharos green
+V,DD,515,0.055,1000,NA,170,NA,300,Pharos green
+V,EE,515,0.06,1000,NA,170,NA,300,Pharos green
+V,FF,515,0.065,1000,NA,170,NA,300,Pharos green
+V,GG,515,0.07,1000,NA,170,NA,300,Pharos green
+V,HH,515,0.075,1000,NA,170,NA,300,Pharos green
+V,II,515,0.08,1000,NA,170,NA,300,Pharos green
+V,JJ,515,0.085,1000,NA,170,NA,300,Pharos green
+V,KK,NA,NA,NA,NA,NA,NA,NA,Pharos green
+V,LL,NA,NA,NA,NA,NA,NA,NA,Pharos green
+W,A,1030,0.01,10000,NA,170,NA,300,Pharos repetition rate
+W,B,1030,0.015,10000,NA,170,NA,300,Pharos repetition rate
+W,C,1030,0.02,10000,NA,170,NA,300,Pharos repetition rate
+W,D,1030,0.025,10000,NA,170,NA,300,Pharos repetition rate
+W,E,1030,0.03,10000,NA,170,NA,300,Pharos repetition rate
+W,F,1030,0.035,10000,NA,170,NA,300,Pharos repetition rate
+W,G,1030,0.04,10000,NA,170,NA,300,Pharos repetition rate
+W,H,1030,0.045,10000,NA,170,NA,300,Pharos repetition rate
+W,I,1030,0.05,10000,NA,170,NA,300,Pharos repetition rate
+W,J,1030,0.055,10000,NA,170,NA,300,Pharos repetition rate
+W,K,1030,0.06,10000,NA,170,NA,300,Pharos repetition rate
+W,L,1030,0.01,10000,NA,170,NA,300,Pharos repetition rate
+W,M,1030,0.015,10000,NA,170,NA,300,Pharos repetition rate
+W,N,1030,0.02,10000,NA,170,NA,300,Pharos repetition rate
+W,O,1030,0.025,10000,NA,170,NA,300,Pharos repetition rate
+W,P,1030,0.03,10000,NA,170,NA,300,Pharos repetition rate
+W,Q,1030,0.035,10000,NA,170,NA,300,Pharos repetition rate
+W,R,1030,0.04,10000,NA,170,NA,300,Pharos repetition rate
+W,S,1030,0.045,10000,NA,170,NA,300,Pharos repetition rate
+W,T,1030,0.05,10000,NA,170,NA,300,Pharos repetition rate
+W,U,1030,0.055,10000,NA,170,NA,300,Pharos repetition rate
+W,V,1030,0.06,10000,NA,170,NA,300,Pharos repetition rate
+W,W,1030,0.01,10000,NA,170,NA,300,Pharos repetition rate
+W,X,1030,0.015,10000,NA,170,NA,300,Pharos repetition rate
+W,Y,1030,0.02,10000,NA,170,NA,300,Pharos repetition rate
+W,Z,1030,0.025,10000,NA,170,NA,300,Pharos repetition rate
+W,AA,1030,0.03,10000,NA,170,NA,300,Pharos repetition rate
+W,BB,1030,0.035,10000,NA,170,NA,300,Pharos repetition rate
+W,CC,1030,0.04,10000,NA,170,NA,300,Pharos repetition rate
+W,DD,1030,0.045,10000,NA,170,NA,300,Pharos repetition rate
+W,EE,1030,0.05,10000,NA,170,NA,300,Pharos repetition rate
+W,FF,1030,0.055,10000,NA,170,NA,300,Pharos repetition rate
+W,GG,1030,0.06,10000,NA,170,NA,300,Pharos repetition rate
+W,HH,1030,0.06,100000,NA,170,NA,300,Pharos repetition rate
+W,II,1030,0.06,100000,NA,170,NA,300,Pharos repetition rate
+W,JJ,1030,0.06,100000,NA,170,NA,300,Pharos repetition rate
+W,KK,1030,0.01,10000,NA,170,NA,300,Pharos repetition rate
+W,LL,1030,,,NA,,,,Pharos repetition rate
+Z,A,515,0.01,5000,NA,170,NA,300,Polarization and repeated exposure
+Z,B,515,0.015,5000,NA,170,NA,300,Polarization and repeated exposure
+Z,C,515,0.02,5000,NA,170,NA,300,Polarization and repeated exposure
+Z,D,515,0.025,5000,NA,170,NA,300,Polarization and repeated exposure
+Z,E,515,0.01,5000 x2,NA,170,NA,300,Polarization and repeated exposure
+Z,F,515,0.015,5000 x2,NA,170,NA,300,Polarization and repeated exposure
+Z,G,515,0.02,5000 x2,NA,170,NA,300,Polarization and repeated exposure
+Z,H,515,0.025,5000 x2,NA,170,NA,300,Polarization and repeated exposure
+Z,I,515,0.01,"5000, rot, 5000",NA,170,NA,300,Polarization and repeated exposure
+Z,J,515,0.015,"5000, rot, 5000",NA,170,NA,300,Polarization and repeated exposure
+Z,K,515,0.02,"5000, rot, 5000",NA,170,NA,300,Polarization and repeated exposure
+Z,L,515,0.025,"5000, rot, 5000",NA,170,NA,300,Polarization and repeated exposure
+Z,M,515,0.01,1000,NA,170,NA,300,Polarization and repeated exposure
+Z,N,515,0.015,10000,NA,170,NA,300,Polarization and repeated exposure
+Z,O,515,0.02,10000,NA,170,NA,300,Polarization and repeated exposure
+Z,P,515,0.025,10000,NA,170,NA,300,Polarization and repeated exposure
+Z,Q,515,0.01,10000 circular,NA,170,NA,300,Polarization and repeated exposure
+Z,R,515,0.015,10000 circular,NA,170,NA,300,Polarization and repeated exposure
+Z,S,515,0.02,10000 circular,NA,170,NA,300,Polarization and repeated exposure
+Z,T,515,0.025,10000 circular,NA,170,NA,300,Polarization and repeated exposure
+Z,U,NA,NA,NA,NA,NA,NA,NA,Polarization and repeated exposure
+Z,V,NA,NA,NA,NA,NA,NA,NA,Polarization and repeated exposure
+Z,W,NA,NA,NA,NA,NA,NA,NA,Polarization and repeated exposure
+AA,A,515,0.025,10000,NA,170,NA,300,Pharos extreme pulse counts
+AA,B,515,0.025,100000,NA,170,NA,300,Pharos extreme pulse counts
+AA,C,515,0.01,10000,NA,170,NA,300,Pharos extreme pulse counts
+AA,D,515,0.02,10000,NA,170,NA,300,Pharos extreme pulse counts
+AA,E,515,0.03,10000,NA,170,NA,300,Pharos extreme pulse counts
+AA,F,NA,NA,NA,NA,NA,NA,NA,Pharos extreme pulse counts
+AA,A,515,0.025,10000,NA,170,NA,300,Pharos extreme pulse counts
+AA,B,515,0.025,100000,NA,170,NA,300,Pharos extreme pulse counts
+AA,C,515,0.01,10000,NA,170,NA,300,Pharos extreme pulse counts
+AA,D,515,0.02,10000,NA,170,NA,300,Pharos extreme pulse counts
+AA,E,515,0.03,10000,NA,170,NA,300,Pharos extreme pulse counts
+AA,F,NA,NA,NA,NA,NA,NA,NA,Pharos extreme pulse counts
